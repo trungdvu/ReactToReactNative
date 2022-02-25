@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/RNTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNTutorial.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNTutorial.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1104142/RNTutorial.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1104142/RNTutorial.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/123594594/RNTutorial.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/123594594/RNTutorial.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-833310901/RNTutorial.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-833310901/RNTutorial.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1641652515/RNTutorial.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1641652515/RNTutorial.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
